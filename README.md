@@ -48,8 +48,6 @@ Trading is a more chaotic game of incomplete information with many moving pieces
 
 The only thing that is certain in this game is that your model is wrong and subject to change at any given time.
 
-Traders are tasked with optimal decision making under this uncertainty, and as we have shown time and time again in each of my videos — just because their models are fundamentally wrong does not preclude them from making money!
-
 Theoretical edge in this capacity exists from experience in tandem with models. A good reference is any work on Deep Bellman Hedging (Hans Buehler) or job listings for traders: if experience had nothing to do with trading and it were all luck why would we hire an experienced trader? Moreover, we couldn’t learn anything of the true asset price distribution from an empirical distribution like Buehler et al.
 
 
