@@ -16,6 +16,8 @@ Edge in Games of Chance: Roulette
 3. Of course, the actual wealth path itself is stochastic so the casino and players can still lose or make money in the short run but in the long run there should be relative convergence
 to this theoretical edge in the form of P/L for the casino (or no casinos would be in business).
 
+<img width="716" height="415" alt="image" src="https://github.com/user-attachments/assets/9be1b102-46a9-4461-b707-89a2467a1c58" />
+
 
 # Edge in Games of Incomplete Information: Poker
 Poker is a game of incomplete information. Each player must make decisions based on their hand, the 
